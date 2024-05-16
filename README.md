@@ -1,6 +1,6 @@
-# BPA-Nationals-2024
-C++
-Top-Ten Finalist Unedited
+# Rectangular Encryption C++
+
+5th Place BPA Nats unedited.
 
 Rectangular Encryption:
 
